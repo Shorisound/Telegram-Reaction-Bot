@@ -1,29 +1,30 @@
-🤖 Telegram Reaction Bot
+```markdown
+# 🤖 Telegram Reaction Bot
 
-<img> src='https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python'<img>
-https://img.shields.io/badge/Telegram-Bot_API-blue?style=for-the-badge&logo=telegram
-https://img.shields.io/badge/License-MIT-green?style=for-the-badge
+![Python](https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python)
+![Telegram](https://img.shields.io/badge/Telegram-Bot_API-blue?style=for-the-badge&logo=telegram)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-🌟 Descripción
+## 🌟 Descripción
 
 Un script elegante y eficiente en Python que envía reacciones automáticas con emojis aleatorios a mensajes de Telegram utilizando múltiples bots simultáneamente.
 
 ---
 
-✨ Características Principales
+## ✨ Características Principales
 
-Característica Descripción
-🔥 Múltiples Bots Soporte para varios tokens de bot simultáneos
-🎲 Emojis Aleatorios Selección random de 11 emojis diferentes
-⚡ Fácil Configuración Configuración simple mediante enlaces
-🚀 Rápido y Eficiente Respuestas instantáneas usando la API oficial
+| Característica | Descripción |
+|----------------|-------------|
+| 🔥 **Múltiples Bots** | Soporte para varios tokens de bot simultáneos |
+| 🎲 **Emojis Aleatorios** | Selección random de 11 emojis diferentes |
+| ⚡ **Fácil Configuración** | Configuración simple mediante enlaces |
+| 🚀 **Rápido y Eficiente** | Respuestas instantáneas usando la API oficial |
 
 ---
 
-🛠️ Instalación Rápida
+## 🛠️ Instalación Rápida
 
-Prerrequisitos
-
+### Prerrequisitos
 ```bash
 Python 3.6+ instalado
 ```
@@ -147,21 +148,21 @@ reaction Array Lista de reacciones a enviar [{"type": "emoji", "emoji": "🔥"}]
 
 ```
 telegram-reaction-bot/
-├── 📄 telegram_reaction_bot.py 
+├── 📄 telegram_reaction_bot.py
 ├── 📄 requirements.txt          
-├── 📄 README.md              
+├── 📄 README.md               
 ```
-
 ---
 
-⚠️ Aviso Legal
+🤝 Contribuciones
 
-Importante: Este script está diseñado para fines educativos y de automatización legítima. El usuario es responsable de:
+¡Las contribuciones son bienvenidas!
 
-· Cumplir con los Términos de Servicio de Telegram
-· Obtener los permisos necesarios antes de su uso
-· Respetar los límites de la API de Telegram
-· Usar de manera ética y responsable
+1. 🍴 Haz fork del proyecto
+2. 🌿 Crea una rama para tu feature (git checkout -b feature/AmazingFeature)
+3. 💬 Commit tus cambios (git commit -m 'Add AmazingFeature')
+4. 🚀 Push a la rama (git push origin feature/AmazingFeature)
+5. 🔄 Abre un Pull Request
 
 ---
 
@@ -181,6 +182,5 @@ Creado con ❤️ y ☕ por desarrolladores para la comunidad de Telegram.
 
 ¿Te gusta este proyecto? ¡Dale una estrella! ⭐
 
-¿Preguntas? Abre un issue o contáctanos
-
 </div>
+```
