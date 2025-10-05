@@ -1,6 +1,6 @@
 🤖 Telegram Reaction Bot
 
-<img> src='https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python'</img>
+<img> src='https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python'<img>
 https://img.shields.io/badge/Telegram-Bot_API-blue?style=for-the-badge&logo=telegram
 https://img.shields.io/badge/License-MIT-green?style=for-the-badge
 
