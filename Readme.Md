@@ -35,7 +35,7 @@ Python 3.6+ instalado
 pip install requests
 
 # Descargar el script
-git clone <tu-repositorio>
+git clone https://github.com/Shorisound/Telegram-Reaction-Bot.git
 cd telegram-reaction-bot
 ```
 
